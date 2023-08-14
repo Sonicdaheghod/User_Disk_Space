@@ -21,6 +21,8 @@ Languages/ Technologies used:
 * Visual Studio Code
 * WSL Ubuntu
 
+## Setup
+
 1) Download [Ubuntu](https://ubuntu.com/download/desktop)
 * Ensure virtualization is enabled
 This can be done by going on the BIOS screen. To get here reset your computer and repeatedly press esc, F2, or the keyboard button that you need to press according to your device version/model.
