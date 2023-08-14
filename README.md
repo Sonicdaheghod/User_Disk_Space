@@ -11,7 +11,9 @@ by Megan Tran
 
 ## Purpose of Program
 
-* Practice using 
+* Practice using awk and bash shell scripting on Windows Subsystem for Linux (WSL) on Visual Studio Code.
+* Alert user if their disk space were to run out.
+* Practice applying mathematical operations.
 
 ## Screenshots  
 
