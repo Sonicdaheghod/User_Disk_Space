@@ -19,6 +19,8 @@ by Megan Tran
 
 <img width="400" alt="image" src="https://github.com/Sonicdaheghod/User_Disk_Space/assets/68253811/684fd50c-ea9e-4518-8b67-070ef0eef02e">
 
+Final output from bash script.
+
 ## Technologies
 Languages/ Technologies used:
 
