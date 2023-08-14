@@ -46,4 +46,4 @@ The wsl terminal should now be avaliable on VSC application.
 ## Credits
 
 * Source code from [Hackpens](https://youtu.be/qhCxKrU1AEY)
-## Using the Program
+
