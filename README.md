@@ -21,7 +21,7 @@ Languages/ Technologies used:
 * Visual Studio Code
 * WSL Ubuntu
 
-* 1) Download [Ubuntu](https://ubuntu.com/download/desktop)
+1) Download [Ubuntu](https://ubuntu.com/download/desktop)
 * Ensure virtualization is enabled
 This can be done by going on the BIOS screen. To get here reset your computer and repeatedly press esc, F2, or the keyboard button that you need to press according to your device version/model.
 ![image](https://github.com/Sonicdaheghod/Scanning-and-Detecting-Network_MT/assets/68253811/8b1752e9-80ab-4ffb-88f4-cfffc30f006d)
