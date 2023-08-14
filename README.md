@@ -11,6 +11,8 @@ by Megan Tran
 
 ## Purpose of Program
 
+* Practice using 
+
 ## Screenshots  
 
 ## Technologies
@@ -42,6 +44,8 @@ This can be done by going on the BIOS screen. To get here reset your computer an
 The wsl terminal should now be avaliable on VSC application.
 
 3) Download awk by following intructions [here](https://adamtheautomator.com/awk-for-windows/).
+
+## Using the Program
 
 ## Credits
 
