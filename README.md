@@ -49,7 +49,11 @@ The wsl terminal should now be avaliable on VSC application.
 
 ## Using the Program
 
+* What I did differently was adding an if-else statement into the program. If the user's disk space was above 90%, the program would alert the user that they have low disk space. Otherwise, they would only be shown the amount of disk space avaliable.
+
+
+
 ## Credits
 
-* Source code from [Hackpens](https://youtu.be/qhCxKrU1AEY)
+* Source code from [Linuxtopia](https://www.youtube.com/watch?v=ahxhTIvnF3I&ab_channel=Linuxtopia)
 
